@@ -1,4 +1,7 @@
 Bienvenidos al proyecto de IA 
+
+Detectar Lagartijas (ejercicios)
+
 <div>Teachable Machine Pose Model</div>
 <button type="button" onclick="init()">Start</button>
 <div><canvas id="canvas"></canvas></div>
